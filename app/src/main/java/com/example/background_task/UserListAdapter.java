@@ -25,7 +25,7 @@ public class UserListAdapter extends RecyclerView.Adapter<UserListAdapter.UserVi
     public UserListAdapter(Context context, ArrayList<User> userList) {
         this.context = context;
         this.mUserList = userList;
-    }
+    }//
 
     @NonNull
     @Override
