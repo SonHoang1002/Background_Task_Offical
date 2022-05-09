@@ -185,3 +185,7 @@ public class MainActivity extends AppCompatActivity {
 //        git branch -M main
 //        git remote add origin https://github.com/SonHoang1002/Background_Task_Offical.git
 //        git push -u origin main
+
+//git remote add origin https://github.com/SonHoang1002/Background_Task_Offical.git
+//git branch -M main
+//git push -u origin main
